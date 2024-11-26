@@ -1,2 +1,6 @@
-ma_string= "Je suis une String"
-print(ma_string)
+produit = {
+    "nom": "Adidas",
+    "prix_unitaire": 50.0,
+    "quantite_en_stock": 100
+}
+

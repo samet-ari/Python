@@ -1,3 +1,4 @@
-
-for lettre in range(122, 96, -1): 
-    print(chr(lettre), end="")
+num1=3
+num2=14
+sum=(num1*num2)
+print(sum)
